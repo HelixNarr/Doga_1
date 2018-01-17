@@ -31,5 +31,10 @@ namespace Vanyo_Adam_Hibabejelento
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
